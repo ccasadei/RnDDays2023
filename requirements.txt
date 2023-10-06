@@ -1,0 +1,7 @@
+gradio
+langchain
+openai
+python-dotenv
+google-api-python-client>=2.100.0
+beautifulsoup4
+ipython-sql

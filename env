@@ -1,0 +1,9 @@
+# Azure OpenAI API
+OPENAI_API_TYPE=azure
+OPENAI_API_BASE=https://mgopenai-test.openai.azure.com/
+OPENAI_API_VERSION=2023-08-01-preview
+OPENAI_API_KEY=38ea5d3f643b42fd9e8bcfd8d967b000
+
+# Custom Search API 
+GOOGLE_API_KEY=AIzaSyAT134vSwetMQGqQVxgJOhCTW7BgUciYj0
+GOOGLE_CSE_ID=b16a6066d59b64582
